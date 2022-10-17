@@ -1,0 +1,2 @@
+Rukikaki
+function rukikaki()
